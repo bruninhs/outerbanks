@@ -1,0 +1,272 @@
+body{
+    background-color: #FFFFF8;
+    font-family: 'Amatic SC', cursive;
+  font-family: 'Barlow Condensed', sans-serif;
+    
+  }
+  
+  .toposite{ 
+  background-color:#9a4814;
+  width:100%;
+  height:150px;
+  }
+  
+  #van {
+    display:flex;
+    justify-content:center;
+  }
+  
+  .toposite img {
+    width:164px;
+  }
+    nav { 
+      display: flex;
+      flex-direction:row;
+      background-color:#DC722F;
+  width:100%;
+  height:50px;
+      justify-content:center;
+     gap: 190px;
+      align-items: center;
+  }
+  nav a { padding:5px 20px;
+    border-radius:25px
+  }
+  #obx{
+    width:500px;
+    margin: auto;
+  }
+  #obx img {
+    width: 100%;
+     margin-top: 10%;
+    display:flex;
+    justify-content:center;
+    margin-bottom:10%;
+  }
+  
+  #out {
+    width: 900px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+  }
+  
+  #out img {
+    width: 90%;
+    border-style: solid;  
+  display:flex;
+  }
+  
+  #texto
+  {
+    width:27%;
+   
+  }
+  
+  #texto p{
+      display:flex;
+  
+  }
+  
+  #imgg 
+  {
+    display:flex;
+    align-items:center;
+    justify-content:center;
+  }
+  
+  
+  a:visited{color:#70340D;}
+  a {text-decoration:none;}
+  a:hover {
+    background-color:#fbc87c;
+  }
+  
+  #jbimg 
+  {
+    width: 260px;
+  }
+  
+  #jbimg img{
+    display:flex;
+    width: 100%;
+    border-style: solid;  
+  }
+  
+  #jb{
+    margin-top: 50px;
+       padding:0%;
+      width:100%;
+     display:flex;
+    justify-content:center;
+  }
+  
+  #jb p{
+    width:590px;
+    display:flex;
+     align-items:center;
+    margin-right:5px;
+  }
+  
+  #sahimg
+  {
+    width: 260px;
+  }
+  
+  #sahimg img{
+    display:flex;
+    width: 99%;
+    border-style: solid;  
+  }
+  
+  #sah{
+    margin-top: 50px;
+       padding:0%;
+      width:100%;
+     display:flex;
+    justify-content:center;
+  }
+  
+  #sah p{
+    width:590px;
+    display:flex;
+     align-items:center;
+    margin-right:5px;
+  }
+  
+  #kieimg
+  {
+    width: 260px;
+  }
+  
+  #kieimg img{
+    display:flex;
+    width: 99%;
+    border-style: solid;  
+  }
+  
+  #kie{
+    margin-top: 50px;
+       padding:0%;
+      width:100%;
+     display:flex;
+    justify-content:center;
+  }
+  
+  #kie p{
+    width:590px;
+    display:flex;
+     align-items:center;
+    margin-right:5px;
+  }
+  
+  #popeimg
+  {
+    width: 260px;
+  }
+  
+  #popeimg img{
+    display:flex;
+    width: 99%;
+    border-style: solid;  
+  }
+  
+  #pope{
+    margin-top: 50px;
+       padding:0%;
+      width:100%;
+     display:flex;
+    justify-content:center;
+  }
+  
+  #pope p{
+    width:590px;
+    display:flex;
+     align-items:center;
+    margin-right:5px;
+  }
+  
+  #jjimg
+  {
+    width: 260px;
+  }
+  
+  #jjimg img{
+    display:flex;
+    width: 99%;
+    border-style: solid;  
+  }
+  
+  #jj{
+    margin-top: 50px;
+       padding:0%;
+      width:100%;
+     display:flex;
+    justify-content:center;
+  }
+  
+  #jj p{
+    width:590px;
+    display:flex;
+     align-items:center;
+    margin-right:5px;
+  }
+  
+  #cleoimg
+  {
+    width: 260px;
+  }
+  
+  #cleoimg img{
+    display:flex;
+    width: 99%;
+    border-style: solid;  
+  }
+  
+  #cleo{
+    margin-top: 50px;
+       padding:0%;
+      width:100%;
+     display:flex;
+    justify-content:center;
+  }
+  
+  #cleo p{
+    width:590px;
+    display:flex;
+     align-items:center;
+    margin-right:5px;
+  }
+  
+  #rafeimg
+  {
+    width: 260px;
+  }
+  
+  #rafeimg img{
+    display:flex;
+    width: 99%;
+    border-style: solid;  
+  }
+  
+  #rafe{
+    margin-top: 50px;
+       padding:0%;
+      width:100%;
+     display:flex;
+    justify-content:center;
+  }
+  
+  #rafe p{
+    width:590px;
+    display:flex;
+     align-items:center;
+    margin-right:5px;
+  }
+  
+  #footer{
+    background-color:#9a4814;
+    width:100vw;
+  height:20vh;
+    display:flex;
+  }
